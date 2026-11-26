@@ -1,0 +1,8 @@
+sb3-contrib==1.7.0
+stable-baselines3==1.7.0
+progress==1.6
+tensorflow
+pymysql==1.0.2
+sqlalchemy
+stable-baselines3[extra]
+optuna
