@@ -1,12 +1,3 @@
-{
-    "average_points": 162.784,
-    "average_rounds": 32.516,
-    "custom_metric": 27009.948,
-    "error_games": 8,
-    "finished_games": 992,
-    "max_points": 221,
-    "max_rounds": 39,
-    "min_points": 60,
-    "min_rounds": 15,
-    "rounds_played": 1000
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f7fba7cd46e7ce41cd746764985ada76e9db2479ad95fc3ea003288a8982b8c4
+size 260

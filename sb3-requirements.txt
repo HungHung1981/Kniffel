@@ -1,8 +1,3 @@
-sb3-contrib==1.7.0
-stable-baselines3==1.7.0
-progress==1.6
-tensorflow
-pymysql==1.0.2
-sqlalchemy
-stable-baselines3[extra]
-optuna
+version https://git-lfs.github.com/spec/v1
+oid sha256:e09c443c6413f0abb57a11f28a25f7f0b52bd77063fb7a5e87d2e2de2338b1aa
+size 126

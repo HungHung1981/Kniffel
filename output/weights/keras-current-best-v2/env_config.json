@@ -1,8 +1,3 @@
-{
-    "reward_bonus": 25,
-    "reward_finish": 25,
-    "reward_game_over": -25,
-    "reward_mode": "custom",
-    "reward_roll_dice": 0.5,
-    "state_mode": "continuous"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:6993cf9892f3def78ace98df2c241c5d3939df29a1b8a1f608c97a06e0d8f9fc
+size 170

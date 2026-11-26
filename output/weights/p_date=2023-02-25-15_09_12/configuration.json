@@ -1,15 +1,3 @@
-{
-    "agent": "QRDQN",
-    "QRDQN_buffer_size": 100000,
-    "QRDQN_exploration_final_eps": 0.09113316028045268,
-    "QRDQN_exploration_fraction": 0.019035620237241382,
-    "QRDQN_exploration_initial_eps": 0.49827930377793855,
-    "QRDQN_gamma": 0.9070283947221435,
-    "QRDQN_gradient_steps": 67,
-    "QRDQN_learning_rate": 0.0016187203716563254,
-    "QRDQN_learning_starts": 1000,
-    "QRDQN_policy": "MlpPolicy",
-    "QRDQN_target_update_interval": 984,
-    "QRDQN_tau": 0.48643533524790566,
-    "QRDQN_train_freq": 17
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:752618cde6691cc8be0193d0569325f2fe98fd0366177d437d16e4cb6bf8db99
+size 523

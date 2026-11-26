@@ -1,13 +1,3 @@
-#!/bin/sh
-
-echo "1. Install virtual environment"
-sudo apt install python3-venv
-
-echo "2. Create virtual environment"
-python3 -m venv sb3
-
-echo "3. Activate virtual environment"
-source sb3/bin/activate
-
-echo "4. Install requirements"
-pip install -r sb3-requirements.txt
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae00a3e37ff3af076116ad11915add8034ccb34ecca5b0faefc837ea71e78084
+size 268

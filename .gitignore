@@ -1,31 +1,3 @@
-.vscode
-.idea
-*.pyc
-*/*/*/__pycache__/
-*/*/__pycache__/
-*/__pycache__/
-*/*/*/.ipynb_checkpoints/
-*/*/.ipynb_checkpoints/
-*/.ipynb_checkpoints/
-*/*/.ipynb.amltmp
-*/.ipynb.amltmp
-.ipynb.amltmp
-*/*/.py.amltmp
-*/.py.amltmp
-.py.amltmp
-*/*/.amlignore
-*/.amlignore
-.amlignore
-*/*/.ipynb_aml_checkpoints
-*/.ipynb_aml_checkpoints
-.ipynb_aml_checkpoints
-*/*/.pytest_cache
-*/.pytest_cache
-.pytest_cache
-*/*/*/.py.amltmp
-*/*/.py.amltmp
-*/.py.amltmp
-
-run_optuna.sh
-
-src/jupyter/optuna-plot.ipynb
+version https://git-lfs.github.com/spec/v1
+oid sha256:d6edcb17776fdfc643e8cb16a4634506e915fad24d02552ac83ebd5f18cd65d1
+size 516

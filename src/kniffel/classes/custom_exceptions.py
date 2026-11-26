@@ -1,21 +1,3 @@
-class GameFinishedException(Exception):
-    def __init__(self, message="Game finished!"):
-        super(GameFinishedException, self).__init__(message)
-
-
-class NewGameException(Exception):
-    def __init__(self, message="Cannot finish new game!"):
-        super(NewGameException, self).__init__(message)
-
-
-class TurnFinishedException(Exception):
-    def __init__(self, message="Cannot do more then 3 attempts per round."):
-        super(TurnFinishedException, self).__init__(message)
-
-
-class SelectedOptionException(Exception):
-    def __init__(
-        self,
-        message="Cannot select the same Option again or not possible for this. Select another Option!",
-    ):
-        super(SelectedOptionException, self).__init__(message)
+version https://git-lfs.github.com/spec/v1
+oid sha256:7882969a132376b3a149ddf2a1b3c9d27ead6a5531fc44a6ae8c0f012ee036a9
+size 733

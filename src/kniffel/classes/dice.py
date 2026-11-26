@@ -1,36 +1,3 @@
-import random
-
-
-class Dice:
-    value = 0
-
-    def __init__(self, mock: int = -1):
-        """Dice class
-
-        :param mock: list of mock dice values, defaults to -1
-        :param logging: _description_, defaults to False
-        """
-        random.seed()
-
-        if mock > 0:
-            self.value = mock
-        else:
-            self.roll()
-
-    def roll(self):
-        """Roll the dice"""
-        self.value = random.randint(1, 6)
-
-    def get(self):
-        """Get value of the dice
-
-        :return: value of the dice
-        """
-        return self.value
-
-    def set(self, value: int):
-        """Set value of the dice
-
-        :param value: value to set
-        """
-        self.value = value
+version https://git-lfs.github.com/spec/v1
+oid sha256:01a4134cd93eba9f97439df63928c72c055c95ee88a9b7d95ae84428e71f5072
+size 706
